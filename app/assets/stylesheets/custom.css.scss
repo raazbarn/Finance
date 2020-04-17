@@ -5,3 +5,18 @@
 //     text-decoration-color: complement($color: #000000);
 //     // background-color: darken($color: #000000, $amount: 0);
 // }
+
+.search-area {
+    padding-top: 50px;
+}
+.no-right-padding {
+    padding-right: 0 !important;
+}
+
+.no-left-padding {
+    padding-left: 0 !important;
+}
+
+.results-block {
+    display: inline-block;
+}
